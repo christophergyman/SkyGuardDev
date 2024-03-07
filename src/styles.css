@@ -10,6 +10,15 @@ body {
   align-items: center;
 }
 
+p,
+h2,
+h1,
+h3,
+ul,
+li {
+  color: white;
+}
+
 .italic {
   font-style: italic;
 }
